@@ -1,1 +1,2 @@
 # W.O.W-Attachment-2022
+This project, titled "Performing Daily Tasks with a Robot Arm", uses the Universal Robot Arm to carry out tasks, such as sorting items, folding clothes, etc. This algorithm requires computer vision and image classification models using OpenCV and Pytorch libraries, in order to identify objects and navigate obstacles. The robot arm is controlled by assigning paths using the URX library.
